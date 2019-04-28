@@ -19,7 +19,7 @@ Run the script by using command:
 
 After running the script, you will get the `usetinfo.txt` and `TweetsContent.txt`.
 
-Enjoy your selenium and sina weibo now!!!
+Enjoy your selenium and twitter now!!!
 
 # Reference
 [Mining Twitter with Selenium](https://allofyourbases.com/2018/01/16/mining-twitter-with-selenium/amp/)
